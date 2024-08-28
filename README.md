@@ -1,7 +1,8 @@
 # CategoryProductAPI
 
 ## Overview
-The CategoryProductAPI is a Spring Boot-based project that manages categories and products with a one-to-many relationship. This API provides CRUD operations for managing both categories and products, and includes server-side pagination for efficient data retrieval.
+The CategoryProductAPI is a Spring Boot-based project that manages categories and products with a one-to-many relationship. 
+This API provides CRUD operations for managing both categories and products, and includes server-side pagination for efficient data retrieval.
 
 ## Features
 - *RESTful API:* Supports CRUD operations for categories and products.
@@ -31,4 +32,5 @@ To test the API endpoints, you can use [Postman](https://www.postman.com/).
 - In the Body tab, select raw and JSON, then provide the product details in JSON format.
 
 2.**Check Responses:**
-- After hitting the Send button in Postman, you should see the API's response in the lower part of the window. This will help you verify that the API is working correctly.
+- After hitting the Send button in Postman, you should see the API's response in the lower part of the window.
+- This will help you verify that the API is working correctly.
