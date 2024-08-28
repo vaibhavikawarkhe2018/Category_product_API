@@ -34,3 +34,15 @@ To test the API endpoints, you can use [Postman](https://www.postman.com/).
 2.**Check Responses:**
 - After hitting the Send button in Postman, you should see the API's response in the lower part of the window.
 - This will help you verify that the API is working correctly.
+
+## Setup Instructions
+
+### Prerequisites
+- Java 11 or higher
+- MySQL database
+- Postman for API testing
+- Spring Tool Suite
+  
+### Configure Application Properties
+Before running the application, you need to configure the application.properties file located in the src/main/resources/ directory.
+Update the database connection details with your own credentials.
